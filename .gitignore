@@ -105,3 +105,4 @@ dist
 
 # PHPSTORM
 .idea
+.DS_Store
